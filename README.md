@@ -46,6 +46,13 @@ The last command should give an output like:
 
 Run the anaconda script 
 
+```
+bash Anaconda3-5.2.0-Linux-x86_64.sh
+```
+At the end they ask if you want to install VSCode, this also comes with some pre-installed anaconda friendly extensions.
+
+
+
 
 
 
